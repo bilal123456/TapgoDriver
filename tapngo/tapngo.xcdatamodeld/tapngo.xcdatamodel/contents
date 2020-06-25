@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Driverdetails" representedClassName="Driverdetails" syncable="YES" codeGenerationType="class">
+        <attribute name="drivercarmodel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="drivercarnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driveremail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverfirstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverlastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverlat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverlon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverphonenumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverprofilepict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverreview" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Invoiceviewed" representedClassName="Invoiceviewed" syncable="YES" codeGenerationType="class">
+        <attribute name="invoiceviewed" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Profilepicture" representedClassName="Profilepicture" syncable="YES" codeGenerationType="class">
+        <attribute name="imageData" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="Tripbilldetails" representedClassName="Tripbilldetails" syncable="YES" codeGenerationType="class">
+        <attribute name="basedistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="baseprice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distanceprice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driveramount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priceperdistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pricepertime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="promoamount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="referralamount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="requestid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="servicefee" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="servicetax" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="servicetaxpercentage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="showbill" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeprice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="waitingprice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="walletamount" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Tripdetails" representedClassName="Tripdetails" syncable="YES" codeGenerationType="class">
+        <attribute name="tripdroplat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripdroploc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripdroplon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripiscompleted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripisdriverarrived" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripisdriverstarted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripistripstarted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trippaymentoption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trippicklat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trippickloc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trippicklon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripstarttime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tripvehicletypeid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="useremail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userfirstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userlastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userphonenumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userprofilepic" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userreview" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Triprated" representedClassName="Triprated" syncable="YES" codeGenerationType="class">
+        <attribute name="triprated" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Userdetails" representedClassName="Userdetails" syncable="YES" codeGenerationType="class">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="login_by" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="login_method" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profilepictureurl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="token" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Driverdetails" positionX="-54" positionY="144" width="128" height="210"/>
+        <element name="Profilepicture" positionX="-63" positionY="54" width="128" height="60"/>
+        <element name="Tripbilldetails" positionX="-27" positionY="162" width="128" height="345"/>
+        <element name="Tripdetails" positionX="-63" positionY="54" width="128" height="360"/>
+        <element name="Userdetails" positionX="-63" positionY="-18" width="128" height="180"/>
+        <element name="Invoiceviewed" positionX="-45" positionY="135" width="128" height="60"/>
+        <element name="Triprated" positionX="-36" positionY="144" width="128" height="60"/>
+    </elements>
+</model>

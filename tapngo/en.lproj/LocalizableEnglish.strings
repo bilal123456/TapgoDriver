@@ -1,0 +1,220 @@
+/* 
+  File.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "Sign In";
+"Sign Up" = "Sign Up";
+
+// Login
+
+"Login" = "Login";
+"Enter your Email or phone number" = "Please enter your email address or phone number";
+"Enter your password" = "Please enter your password";
+"Forget password?" = "Forget password";
+"or login with" = "or login with";
+"Social Media" = "Social Media";
+
+
+// Forgot password
+
+"Phone Number" = "Phone Number";
+"Please Check your registered phone number" = "Please Check the registered phone number";
+"Send" = "Send";
+"Please Choose your Country Code" = "Please Choose your Country Code";
+"Please enter your Phone Number" = "Please enter your Phone Number";
+"OK" = "OK";
+
+// Register
+
+"Greetings" = "Greetings";
+"Phone Number" = "Phone Number";
+"or Signup with" = "or Signup with";
+"Social Media" = "Social Media";
+"Please Choose your Country Code" = "Please Choose your Country Code";
+"Please enter your Phone Number" = "Please enter your Phone Number";
+
+"Please wait for an Otp" = "Please wait for an Otp";
+"Enter OTP Below" = "Enter OTP Below";
+"Verify OTP" = "Verify OTP";
+"Edit Number" = "Edit Number";
+"Resend" = "Resend";
+"Please enter the OTP which is sent to your Phone Number" = "Please enter the OTP which is sent to your Phone Number";
+
+"Registration" = "Registration";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email ID" = "Email ID";
+"Password" = "Password";
+"Sign Up" = "Sign Up";
+"Please enter the First Name" = "Please enter your First name";
+"Please enter the Last Name" = "Please enter your Last name";
+"Please enter the Email ID" = "Please enter your Email ID";
+"Please enter the Password" = "Please enter your Password";
+
+// SIDEMENU
+
+"Profile" = "Profile";
+"Home" = "Home";
+"Payment" = "Payment";
+"Wallet" = "Wallet";
+"Referral" = "Referral";
+"Complaints" = "Complaints";
+"SOS" = "SOS";
+"Settings" = "Settings";
+"History" = "History";
+"Logout" = "Logout";
+"Logout Msg" = "Are you sure you want to logout ?";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+
+//PROFILE
+
+"Basic Setings" = "Basic Settings";
+"FIRST NAME" = "FIRST NAME";
+"LAST NAME" = "LAST NAME";
+"Change Password" = "Change Password";
+"PASSWORD" = "PASSWORD";
+"NEW" = "NEW";
+"CONFIRM" = "CONFIRM";
+"Contact Settings" = "Contact Settings";
+"EMAIL" = "EMAIL";
+"PHONE" = "PHONE";
+"EDIT" = "EDIT";
+"UPDATE" = "UPDATE";
+"Profile Updated Successfully" = "Profile Updated Successfully";
+"Please enter your firstname" = "Please enter your firstname";
+"Please enter your lastname" = "Please enter your lastname";
+"Please enter your new password" = "Please enter a new password";
+"Please enter your confirm password" = "Please enter your confirm password";
+"New password and Confirm password does not match" = "New password and Confirm password does not match";
+"New password must be 8 characters long" = "New password must be 8 characters long";
+"Confirm password must be 8 characters long" = "Confirm password must be 8 characters long";
+
+
+//PAYMENT
+
+"Payment" = "Payment";
+"Choose your payment option" = "Choose your payment option";
+"Select your payment card" = "Select your payment card";
+"No cards available" = "No cards available";
+"Are you sure you want to delete." = "Are you sure you want to delete.";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+
+
+//Wallet
+
+"Buy credits" = "Add Money";
+"Enter your amount to add in wallet" = "Enter your amount to add in wallet";
+"ADD" = "ADD";
+"Select your payment card" = "Select your payment card";
+"Amount added Successfully" = "Amount added Successfully";
+"Are you sure you want to delete." = "Are you sure you want to delete.";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+
+
+// Referral
+
+"Referral code" = "Referral code";
+"Your Existing Referral Amount" = "Your Existing Referral Amount";
+"Your Referral Code" = "Your Refferral Code";
+"Share to get Referral Bonus" = "Share to get Referral Bonus";
+
+// Complaint
+
+"Complaint" = "Complaint";
+"Choose your Complaint type" = "Choose your Complaint type";
+"Comments" = "Comments";
+"Save" = "Save";
+
+// SOS
+
+"SOS" = "SOS";
+"SOS hint text" = "You Clicked SOS Button. Choose whom you want to call for emergency";
+
+// Settings
+
+"General" = "General";
+"Language" = "Language";
+
+// History
+
+"SCHEDULE" = "SCHEDULE";
+
+// Schedule Details
+
+"Ride Scheduled" = "Ride Scheduled";
+"CANCEL" = "CANCEL";
+
+// Home
+
+"Pickup from" = "Pickup from";
+"Drop at" = "Drop at";
+"Ride later" = "Ride later";
+"Ride Now" = "Ride Now";
+"Home" = "Home";
+"Work" = "Work";
+"Other" = "Other";
+"Enter your fav name"= "Please enter your favorite name";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Enter Your Pickup location" = "Please enter your pickup location";
+"Enter Your Drop Location" = "Please enter your drop location";
+"Search for a locality or landmark" = "Search for a locality or landmark";
+"Done" = "Done";
+"Today" = "Today";
+
+//Trip Details
+
+"Payment" = "Payment";
+"CONFIRM BOOKING" = "CONFIRM BOOKING";
+"Select Payment" = "Select payment";
+"Cash" = "Cash";
+"Card" = "Card";
+"Wallet" = "Wallet";
+"Waiting for Driver" = "Waiting for Driver";
+"Cancel" = "Cancel";
+
+"CANCEL" = "CANCEL";
+"CALL" = "CALL";
+"Distance" = "Distance";
+"Promo" = "Promo";
+"Payment" = "payment";
+"Choose" = "Choose";
+
+//Schedule Trip Details
+
+"Payment" = "Payment";
+"CONFIRM BOOKING" = "CONFIRM BOOKING";
+"Select Payment" = "Select payment";
+"Cash" = "Cash";
+"Card" = "Card";
+"Wallet" = "Wallet";
+"Pickup time" = "Pickup time";
+
+//Invoice page
+
+"Base Price" = "Base Price";
+"Distance Cost" = "Distance Cost";
+"Time Cost" = "Time Cost";
+"Waiting Price" = "Waiting Price";
+"Referral Bonus" = "Referral Bonus";
+"Promo Bonus" = "Promo Bonus";
+"Service Tax" = "Service Tax";
+"Total" = "Total";
+"Confirm" = "Confirm";
+//"Additional charge" = "Additional charge"
+
+// Review Page
+
+"SUBMIT" = "SUBMIT";
+

@@ -1,0 +1,219 @@
+/* 
+  LocalizableJapanese.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "サインイン";
+"Sign Up" = "サインアップ";
+
+// Login
+
+"Login" = "ログイン";
+"Enter your Email or phone number" = "あなたのメールアドレスまたは電話番号を入力してください";
+"Enter your password" = "パスワードを入力してください";
+"Forget password?" = "パスワードを忘れる";
+"or login with" = "またはでログインする"; //**
+"Social Media" = "ソーシャルメディア";
+
+
+// Forgot password
+
+"Phone Number" = "電話番号";
+"Please Check your registered phone number" = "登録した電話番号を確認してください";
+"Send" = "送信する";
+"Please Choose your Country Code" = "Please Choose your Country Code"; //**
+"Please enter your Phone Number" = "電話番号を入力してください";
+"OK" = "OK";
+
+// Register
+
+"Greetings" = "ご挨拶";
+"Phone Number" = "電話番号";
+"or Signup with" = "またはでサインアップする"; //**
+"Social Media" = "ソーシャルメディア";
+"Please Choose your Country Code" = "Please Choose your Country Code"; //**
+"Please enter your Phone Number" = "電話番号を入力してください";
+
+"Please wait for an Otp" = "Otpをお待ちください";
+"Enter OTP Below" = "下のOTPを入力";
+"Verify OTP" = "OTPの確認";
+"Edit Number" = "番号の編集";
+"Resend" = "再送信する";
+"Please enter the OTP which is sent to your Phone Number" = "あなたの電話番号に送信されるOTPを入力してください";
+
+"Registration" = "登録";
+"First Name" = "ファーストネーム";
+"Last Name" = "苗字";
+"Email ID" = "電子メールID";
+"Password" = "パスワード";
+"Sign Up" = "サインアップ";
+"Please enter the First Name" = "ファーストネームを入力してください";
+"Please enter the Last Name" = "姓を入力してください";
+"Please enter the Email ID" = "メールIDを入力してください";
+"Please enter the Password" = "パスワードを入力してください";
+
+// SIDEMENU
+
+"Profile" = "プロフィール";
+"Home" = "ホーム";
+"Payment" = "支払い";
+"Wallet" = "財布";
+"Referral" = "紹介";
+"Complaints" = "苦情";
+"SOS" = "SOS";
+"Settings" = "設定";
+"History" = "歴史";
+"Logout" = "ログアウト";
+"Logout Msg" = "ログアウトしてもよろしいですか？";
+"Ok" = "Ok"; //**
+"Cancel" = "キャンセル";
+
+//PROFILE
+
+"Basic Setings" = "基本設定";
+"FIRST NAME" = "ファーストネーム";
+"LAST NAME" = "苗字";
+"Change Password" = "パスワードを変更する";
+"PASSWORD" = "パスワード";
+"NEW" = "新しい";
+"CONFIRM" = "確認";
+"Contact Settings" = "連絡先の設定";
+"EMAIL" = "Eメール";
+"PHONE" = "電話";
+"EDIT" = "編集";
+"UPDATE" = "更新";
+"Profile Updated Successfully" = "プロフィールが正常に更新されました";
+"Please enter your firstname" = "あなたのファーストネームを入力してください";
+"Please enter your lastname" = "あなたの姓を入力";
+"Please enter your new password" = "新しいパスワードを入力してください";
+"Please enter your confirm password" = "確認用のパスワードを入力してください";
+"New password and Confirm password does not match" = "新しいパスワードとパスワードの確認が一致しません";
+"New password must be 8 characters long" = "新しいパスワードは8文字でなければなりません";
+"Confirm password must be 8 characters long" = "確認パスワードは8文字でなければなりません";
+
+
+//PAYMENT
+
+"Payment" = "支払い";
+"Choose your payment option" = "お支払い方法を選択してください";
+"Select your payment card" = "お支払いカードを選択してください";
+"No cards available" = "No cards available";
+"Are you sure you want to delete." = "消去してもよろしいですか？";
+"Ok" = "Ok";
+"Cancel" = "キャンセル";
+
+
+//Wallet
+
+"Buy credits" = "Buy credits";
+"Enter your amount to add in wallet" = "ウォレットに追加する金額を入力してください";
+"ADD" = "追加";
+"Select your payment card" = "お支払いカードを選択してください";
+"Amount added Successfully" = "金額が正常に加算されました";
+"Are you sure you want to delete." = "消去してもよろしいですか？";
+"Ok" = "Ok";
+"Cancel" = "キャンセル";
+
+
+// Referral
+
+"Referral code" = "紹介コード";
+"Your Existing Referral Amount" = "既存の紹介額";
+"Your Referral Code" = "あなたの紹介コード";
+"Share to get Referral Bonus" = "紹介ボーナスを得るためにシェアする";
+
+// Complaint
+
+"Complaint" = "苦情";
+"Choose your Complaint type" = "Choose your Complaint type";
+"Comments" = "コメント";
+"Save" = "セーブ";
+
+// SOS
+
+"SOS" = "SOS";
+"SOS hint text" = "あなたは緊急時に呼びたい緊急ボタンをクリックしました";
+
+// Settings
+
+"General" = "一般";
+"Language" = "言語";
+
+// History
+
+"SCHEDULE" = "スケジュール";
+
+// Schedule Details
+
+"Ride Scheduled" = "ライド予定";
+"CANCEL" = "キャンセル";
+
+// Home
+
+"Pickup from" = "からのピックアップ";
+"Drop at" = "落ちる";
+"Ride later" = "後で乗る";
+"Ride Now" = "今すぐ乗る";
+"Home" = "ホーム";
+"Work" = "作業";
+"Other" = "その他";
+"Enter your fav name"= "お気に入りの名前を入力してください";
+"Cancel" = "キャンセル";
+"Save" = "セーブ";
+"Enter Your Pickup location" = "あなたのピックアップ場所を入力してください";
+"Enter Your Drop Location" = "あなたのドロップ位置を入力してください";
+"Search for a locality or landmark" = "地域やランドマークを検索する";
+"Done" = "完了";
+"Today" = "今日";
+
+//Trip Details
+
+"Payment" = "支払い";
+"CONFIRM BOOKING" = "予約を確定する";
+"Select Payment" = "お支払いの選択";
+"Cash" = "現金";
+"Card" = "カード";
+"Wallet" = "財布";
+"Waiting for Driver" = "ドライバ待ち";
+"Cancel" = "キャンセル";
+
+"CANCEL" = "キャンセル";
+"CALL" = "コール";
+"Distance" = "距離";
+"Promo" = "プロモーション";
+"Payment" = "支払い";
+"Choose" = "選択する";
+
+//Schedule Trip Details
+
+"Payment" = "支払い";
+"CONFIRM BOOKING" = "予約を確定する";
+"Select Payment" = "お支払いを選択";
+"Cash" = "現金";
+"Card" = "カード";
+"Wallet" = "財布";
+"Pickup time" = "お迎えの時間";
+
+//Invoice page
+
+"Base Price" = "本体価格";
+"Distance Cost" = "距離コスト";
+"Time Cost" = "時間コスト";
+"Waiting Price" = "待機価格";
+"Referral Bonus" = "紹介ボーナス";
+"Promo Bonus" = "プロモーションボーナス";
+"Service Tax" = "サービス税";
+"Total" = "合計";
+"Confirm" = "確認する";
+
+// Review Page
+
+"SUBMIT" = "提出";
+

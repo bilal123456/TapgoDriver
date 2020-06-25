@@ -1,0 +1,219 @@
+/* 
+  LocalizableArabic.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "تسجيل الدخول";
+"Sign Up" = "سجل";
+
+// Login
+
+"Login" = "تسجيل الدخول";
+"Enter your Email or phone number" = "يرجى إدخال عنوان بريدك الإلكتروني أو رقم هاتفك";
+"Enter your password" = "Please enter your password";
+"Forget password?" = "نسيت كلمة المرور";
+"or login with" = "أو تسجيل الدخول باستخدام";
+"Social Media" = "وسائل الاعلام الاجتماعية";
+
+
+// Forgot password
+
+"Phone Number" = "رقم الهاتف";
+"Please Check your registered phone number" = "يرجى التحقق من رقم الهاتف المسجل";
+"Send" = "إرسال";
+"Please Choose your Country Code" = "يرجى اختيار رمز البلد الخاص بك";
+"Please enter your Phone Number" = "يرجى إدخال رقم الهاتف الخاص بك";
+"OK" = "حسنا";
+
+// Register
+
+"Greetings" = "تحية طيبة";
+"Phone Number" = "رقم الهاتف";
+"or Signup with" = "or Signup with";
+"Social Media" = "وسائل الاعلام الاجتماعية";
+"Please Choose your Country Code" = "يرجى اختيار رمز البلد الخاص بك";
+"Please enter your Phone Number" = "يرجى إدخال رقم الهاتف الخاص بك";
+
+"Please wait for an Otp" = "يرجى الانتظار للحصول على Otp";
+"Enter OTP Below" = "أدخل OTP أدناه";
+"Verify OTP" = "تحقق من OTP";
+"Edit Number" = "تحرير الرقم";
+"Resend" = "إعادة إرسال";
+"Please enter the OTP which is sent to your Phone Number" = "يرجى إدخال كلمة المرور لمرة واحدة التي تم إرسالها إلى رقم هاتفك";
+
+"Registration" = "التسجيل";
+"First Name" = "الاسم الاول";
+"Last Name" = "الكنية";
+"Email ID" = "عنوان الايميل";
+"Password" = "كلمه السر";
+"Sign Up" = "سجل";
+"Please enter the First Name" = "يرجى إدخال الاسم الأول";
+"Please enter the Last Name" = "يرجى إدخال اسم العائلة";
+"Please enter the Email ID" = "يرجى إدخال معرف البريد الإلكتروني";
+"Please enter the Password" = "من فضلك أدخل كلمة المرور";
+
+// SIDEMENU
+
+"Profile" = "الملف";
+"Home" = "الصفحة الرئيسية ";
+"Payment" = "دفع";
+"Wallet" = "محفظة نقود";
+"Referral" = "إحالة";
+"Complaints" = "شكاوي";
+"SOS" = "نجدة";
+"Settings" = "إعدادات";
+"History" = "التاريخ";
+"Logout" = "الخروج";
+"Logout Msg" = "هل أنت متأكد أنك تريد تسجيل الخروج ؟";
+"Ok" = "حسنا";
+"Cancel" = "إلغاء";
+
+//PROFILE
+
+"Basic Setings" = "الإعدادات الأساسية";
+"FIRST NAME" = "الاسم الاول";
+"LAST NAME" = "الكنية";
+"Change Password" = "تغيير كلمة السر";
+"PASSWORD" = "كلمه السر";
+"NEW" = "الجديد";
+"CONFIRM" = "تؤكد";
+"Contact Settings" = "إعدادات الاتصال";
+"EMAIL" = "البريد الإلكتروني";
+"PHONE" = "هاتف";
+"EDIT" = "تصحيح";
+"UPDATE" = "تحديث";
+"Profile Updated Successfully" = "تم تحديث الملف الشخصي بنجاح";
+"Please enter your firstname" = "يرجى ادخال الاسم الاول";
+"Please enter your lastname" = "يرجى إدخال اسمك الأخير";
+"Please enter your new password" = "يرجى إدخال كلمة المرور الجديدة";
+"Please enter your confirm password" = "Please enter your confirm password";
+"New password and Confirm password does not match" = "كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقين";
+"New password must be 8 characters long" = "كلمة المرور الجديدة يجب أن تكون 8 أحرف";
+"Confirm password must be 8 characters long" = "يجب أن يكون تأكيد كلمة المرور 8 أحرف";
+
+
+//PAYMENT
+
+"Payment" = "دفع";
+"Choose your payment option" = "اختر خيار الدفع الخاص بك";
+"Select your payment card" = "اختر بطاقة الدفع الخاصة بك";
+"No cards available" = "لا توجد بطاقات متاحة";
+"Are you sure you want to delete." = "هل أنت متأكد أنك تريد حذف.";
+"Ok" = "حسنا";
+"Cancel" = "إلغاء";
+
+
+//Wallet
+
+"Buy credits" = "إضافة المال";
+"Enter your amount to add in wallet" = "أدخل المبلغ الذي تريد إضافته في المحفظة";
+"ADD" = "أضف";
+"Select your payment card" = "اختر بطاقة الدفع الخاصة بك";
+"Amount added Successfully" = "المبلغ المضافة بنجاح";
+"Are you sure you want to delete." = "هل أنت متأكد أنك تريد حذف.";
+"Ok" = "حسنا";
+"Cancel" = "إلغاء";
+
+
+// Referral
+
+"Referral code" = "كود الإحالة";
+"Your Existing Referral Amount" = "مبلغ الإحالة الحالي الخاص بك";
+"Your Referral Code" = "قانون الإحالة الخاص بك";
+"Share to get Referral Bonus" = "حصة للحصول على مكافأة الإحالة";
+
+// Complaint
+
+"Complaint" = "شكوى";
+"Choose your Complaint type" = "اختر نوع الشكوى الخاص بك";
+"Comments" = "تعليقات";
+"Save" = "حفظ";
+
+// SOS
+
+"SOS" = "نجدة";
+"SOS hint text" = "قمت بالنقر فوق زر SOS. اختر من تريد الاتصال به لحالات الطوارئ";
+
+// Settings
+
+"General" = "جنرال لواء";
+"Language" = "لغة";
+
+// History
+
+"SCHEDULE" = "SCHEDULE";
+
+// Schedule Details
+
+"Ride Scheduled" = "الركوب المقرر";
+"CANCEL" = "إلغاء";
+
+// Home
+
+"Pickup from" = "تلتقط من";
+"Drop at" = "انخفاض في";
+"Ride later" = "ركوب في وقت لاحق";
+"Ride Now" = "اركب الآن";
+"Home" = "الصفحة الرئيسية";
+"Work" = "عمل";
+"Other" = "آخر";
+"Enter your fav name"= "يرجى إدخال اسمك المفضل";
+"Cancel" = "إلغاء";
+"Save" = "حفظ";
+"Enter Your Pickup location" = "Please enter your pickup location";
+"Enter Your Drop Location" = "Please enter your drop location";
+"Search for a locality or landmark" = "Search for a locality or landmark";
+"Done" = "Done";
+"Today" = "اليوم";
+
+//Trip Details
+
+"Payment" = "دفع";
+"CONFIRM BOOKING" = "تأكيد الحجز";
+"Select Payment" = "اختر الدفع";
+"Cash" = "السيولة النقدية";
+"Card" = "بطاقة";
+"Wallet" = "محفظة نقود";
+"Waiting for Driver" = "في انتظار سائق";
+"Cancel" = "إلغاء";
+
+"CANCEL" = "إلغاء";
+"CALL" = "مكالمة";
+"Distance" = "مسافه";
+"Promo" = "الترويجي";
+"Payment" = "دفع";
+"Choose" = "أختر";
+
+//Schedule Trip Details
+
+"Payment" = "دفع";
+"CONFIRM BOOKING" = "تأكيد الحجز";
+"Select Payment" = "اختر الدفع";
+"Cash" = "السيولة النقدية";
+"Card" = "بطاقة";
+"Wallet" = "محفظة نقود";
+"Pickup time" = "Pickup time";
+
+//Invoice page
+
+"Base Price" = "السعر الأساسي";
+"Distance Cost" = "تكلفة المسافة";
+"Time Cost" = "تكلفة الوقت";
+"Waiting Price" = "انتظار السعر";
+"Referral Bonus" = "مكافأة الإحالة";
+"Promo Bonus" = "مكافأة ترويجية";
+"Service Tax" = "ضريبة الخدمة";
+"Total" = "مجموع";
+"Confirm" = "تؤكد";
+
+// Review Page
+
+"SUBMIT" = "SUBMIT";
+

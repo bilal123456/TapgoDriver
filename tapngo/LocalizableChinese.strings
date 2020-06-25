@@ -1,0 +1,219 @@
+/* 
+  LocalizableChinese.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "登录";
+"Sign Up" = "注册";
+
+// Login
+
+"Login" = "登录";
+"Enter your Email or phone number" = "请输入您的电子邮件地址或电话号码";
+"Enter your password" = "请输入您的密码";
+"Forget password?" = "忘记密码";
+"or login with" = "或登录同";
+"Social Media" = "社交媒体";
+
+
+// Forgot password
+
+"Phone Number" = "电话号码";
+"Please Check your registered phone number" = "请检查注册的电话号码";
+"Send" = "发送";
+"Please Choose your Country Code" = "请选择您的国家代码";
+"Please enter your Phone Number" = "请输入您的电话号码";
+"OK" = "好";
+
+// Register
+
+"Greetings" = "问候";
+"Phone Number" = "电话号码";
+"or Signup with" = "或注册同";
+"Social Media" = "社交媒体";
+"Please Choose your Country Code" = "请选择您的国家代码";
+"Please enter your Phone Number" = "请输入您的电话号码";
+
+"Please wait for an Otp" = "请等待一个Otp";
+"Enter OTP Below" = "在下面输入OTP";
+"Verify OTP" = "验证OTP";
+"Edit Number" = "编辑号码";
+"Resend" = "重发";
+"Please enter the OTP which is sent to your Phone Number" = "请输入发送到您的电话号码的OTP";
+
+"Registration" = "注册";
+"First Name" = "名字";
+"Last Name" = "Last Name";
+"Email ID" = "电子邮件ID";
+"Password" = "密码";
+"Sign Up" = "注册";
+"Please enter the First Name" = "请输入名字";
+"Please enter the Last Name" = "请输入姓氏";
+"Please enter the Email ID" = "请输入电子邮件ID";
+"Please enter the Password" = "请输入密码";
+
+// SIDEMENU
+
+"Profile" = "轮廓";
+"Home" = "家";
+"Payment" = "付款";
+"Wallet" = "钱包";
+"Referral" = "Referral";
+"Complaints" = "投诉";
+"SOS" = "SOS";
+"Settings" = "设置";
+"History" = "历史";
+"Logout" = "登出";
+"Logout Msg" = "你确定要注销吗？";
+"Ok" = "好";
+"Cancel" = "取消";
+
+//PROFILE
+
+"Basic Setings" = "基本设置";
+"FIRST NAME" = "名字";
+"LAST NAME" = "LAST NAME";
+"Change Password" = "更改密码";
+"PASSWORD" = "密码";
+"NEW" = "新";
+"CONFIRM" = "确认";
+"Contact Settings" = "联系人设置";
+"EMAIL" = "电子邮件";
+"PHONE" = "电话";
+"EDIT" = "编辑";
+"UPDATE" = "UPDATE";
+"Profile Updated Successfully" = "配置文件已成功更新";
+"Please enter your firstname" = "请输入您的名字";
+"Please enter your lastname" = "请输入您的姓氏";
+"Please enter your new password" = "请输入您的新密码";
+"Please enter your confirm password" = "请输入您的确认密码";
+"New password and Confirm password does not match" = "新密码和确认密码不匹配";
+"New password must be 8 characters long" = "新密码长度必须为8个字符";
+"Confirm password must be 8 characters long" = "确认密码必须是8个字符";
+
+
+//PAYMENT
+
+"Payment" = "付款";
+"Choose your payment option" = "选择您的付款选项";
+"Select your payment card" = "选择您的支付卡";
+"No cards available" = "没有可用的卡片";
+"Are you sure you want to delete." = "你确定你要删除。";
+"Ok" = "好";
+"Cancel" = "取消";
+
+
+//Wallet
+
+"Buy credits" = "添加资金";
+"Enter your amount to add in wallet" = "输入您的金额以添加到钱包中";
+"ADD" = "加";
+"Select your payment card" = "选择您的支付卡";
+"Amount added Successfully" = "金额成功添加";
+"Are you sure you want to delete." = "你确定你要删除。";
+"Ok" = "好";
+"Cancel" = "取消";
+
+
+// Referral
+
+"Referral code" = "推荐代码";
+"Your Existing Referral Amount" = "您现有的推荐金额";
+"Your Referral Code" = "您的推荐代码";
+"Share to get Referral Bonus" = "分享获得推荐奖励";
+
+// Complaint
+
+"Complaint" = "投诉";
+"Choose your Complaint type" = "选择您的投诉类型";
+"Comments" = "注释";
+"Save" = "保存";
+
+// SOS
+
+"SOS" = "SOS";
+"SOS hint text" = "您点击了SOS按钮。 选择你想要拨打紧急情况的人";
+
+// Settings
+
+"General" = "一般";
+"Language" = "语言";
+
+// History
+
+"SCHEDULE" = "时间表";
+
+// Schedule Details
+
+"Ride Scheduled" = "旅程已经安排好";
+"CANCEL" = "取消";
+
+// Home
+
+"Pickup from" = "从这里取件";
+"Drop at" = "运到";
+"Ride later" = "稍后再骑";
+"Ride Now" = "现在骑";
+"Home" = "家";
+"Work" = "工作";
+"Other" = "其他";
+"Enter your fav name"= "请输入您最喜欢的名字";
+"Cancel" = "取消";
+"Save" = "保存";
+"Enter Your Pickup location" = "请输入您的取货地点";
+"Enter Your Drop Location" = "Please enter your drop location";
+"Search for a locality or landmark" = "搜索地点或地标";
+"Done" = "Done";
+"Today" = "今天";
+
+//Trip Details
+
+"Payment" = "付款";
+"CONFIRM BOOKING" = "确认预订";
+"Select Payment" = "选择付款";
+"Cash" = "现金";
+"Card" = "卡";
+"Wallet" = "钱包";
+"Waiting for Driver" = "等待司机";
+"Cancel" = "取消";
+
+"CANCEL" = "取消";
+"CALL" = "呼叫";
+"Distance" = "距离";
+"Promo" = "促销";
+"Payment" = "付款";
+"Choose" = "选择";
+
+//Schedule Trip Details
+
+"Payment" = "付款";
+"CONFIRM BOOKING" = "确认预订";
+"Select Payment" = "选择付款";
+"Cash" = "现金";
+"Card" = "卡";
+"Wallet" = "钱包";
+"Pickup time" = "取件时间";
+
+//Invoice page
+
+"Base Price" = "基本价格";
+"Distance Cost" = "距离成本";
+"Time Cost" = "时间成本";
+"Waiting Price" = "等待价格";
+"Referral Bonus" = "推荐奖金";
+"Promo Bonus" = "促销奖金";
+"Service Tax" = "服务税";
+"Total" = "总";
+"Confirm" = "确认";
+
+// Review Page
+
+"SUBMIT" = "提交";
+

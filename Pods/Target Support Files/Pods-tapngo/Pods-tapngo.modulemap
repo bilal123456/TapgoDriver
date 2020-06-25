@@ -1,0 +1,6 @@
+framework module Pods_tapngo {
+  umbrella header "Pods-tapngo-umbrella.h"
+
+  export *
+  module * { export * }
+}

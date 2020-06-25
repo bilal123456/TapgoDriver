@@ -1,0 +1,219 @@
+/* 
+  Localizablespanish.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "Acceder";
+"Sign Up" = "Registrarse";
+
+// Login
+
+"Login" = "Acceder";
+"Enter your Email or phone number" = "Por favor ingrese su dirección de correo electrónico o número de teléfono";
+"Enter your password" = "Por favor, introduzca su contraseña";
+"Forgot password?" = "Olvidó Clave ?";
+"or login with" = "o inicie sesión con";
+"Social Media" = "Social Media";
+
+
+// Forgot password
+
+"Phone Number" = "Número de teléfono";
+"Please Check your registered phone number" = "Por favor, verifique el número de teléfono registrado";
+"Send" = "Enviar";
+"Please Choose your Country Code" = "Por favor elija su código de país";
+"Please enter your Phone Number" = "Por favor, introduzca su número de teléfono";
+"OK" = "OK";
+
+// Register
+
+"Greetings" = "Saludos";
+"Phone Number" = "Número de teléfono";
+"or Signup with" = "o Registrarse con";
+"Social Media" = "Social Media";
+"Please Choose your Country Code" = "Por favor elija su código de país";
+"Please enter your Phone Number" = "Por favor, introduzca su número de teléfono";
+
+"Please wait for an Otp" = "Por favor espera por un Otp";
+"Enter OTP Below" = "Ingrese OTP a continuación";
+"Verify OTP" = "Verificar OTP";
+"Edit Number" = "Editar número";
+"Resend" = "Reenviar";
+"Please enter the OTP which is sent to your Phone Number" = "Ingrese la OTP que se envía a su número de teléfono";
+
+"Registration" = "Registro";
+"First Name" = "Nombre de pila";
+"Last Name" = "Apellido";
+"Email ID" = "Correo";
+"Password" = "Contraseña";
+"Sign Up" = "Registrarse";
+"Please enter the First Name" = "Por favor ingrese el Nombre de pila";
+"Please enter the Last Name" = "Por favor ingrese el apellido";
+"Please enter the Email ID" = "Por favor ingrese la ID de correo electrónico";
+"Please enter the Password" = "Por favor introduzca la contraseña";
+
+// SIDEMENU
+
+"Profile" = "Perfil";
+"Home" = "Casa";
+"Payment" = "Pago";
+"Wallet" = "Billetera";
+"Referral" = "Referral";
+"Complaints" = "Quejas";
+"SOS" = "SOS";
+"Settings" = "Ajuste";
+"History" = "Historia";
+"Logout" = "Cerrar sesión";
+"Logout Msg" = "Are you sure you want to logout ?";
+"Ok" = "Ok";
+"Cancel" = "Cancelar";
+
+//PROFILE
+
+"Basic Setings" = "Ajustes básicos";
+"FIRST NAME" = "Nombre de pila";
+"LAST NAME" = "Apellido";
+"Change Password" = "Cambia la contraseña";
+"PASSWORD" = "CONTRASEÑA";
+"NEW" = "NUEVO";
+"CONFIRM" = "CONFIRMAR";
+"Contact Settings" = "configuración de contacto";
+"EMAIL" = "CORREO";
+"PHONE" = "TELÉFONO";
+"EDIT" = "EDITAR";
+"UPDATE" = "ACTUALIZAR";
+"Profile Updated Successfully" = "Perfil actualizado con éxito";
+"Please enter your firstname" = "Por favor ingrese el Nombre de pila";
+"Please enter your lastname" = "Por favor ingrese el apellido";
+"Please enter your new password" = "Por favor ingrese su nueva contraseña";
+"Please enter your confirm password" = "Por favor ingrese su contraseña de confirmación";
+"New password and Confirm password does not match" = "Nueva contraseña y Confirmar contraseña no coincide";
+"New password must be 8 characters long" = "La nueva contraseña debe tener 8 caracteres de largo";
+"Confirm password must be 8 characters long" = "Confirmar contraseña debe tener 8 caracteres de largo";
+
+
+//PAYMENT
+
+"Payment" = "Pago";
+"Choose your payment option" = "Elija su opción de pago";
+"Select your payment card" = "Seleccione su tarjeta de pago";
+"No cards available" = "No hay tarjetas disponibles";
+"Are you sure you want to delete." = "Estas seguro que quieres borrarlo.";
+"Ok" = "Ok";
+"Cancel" = "Cancelar";
+
+
+//Wallet
+
+"Buy credits" = "Agregar dinero";
+"Enter your amount to add in wallet" = "Ingrese su cantidad para agregar en la billetera";
+"ADD" = "AÑADIR";
+"Select your payment card" = "Seleccione su tarjeta de pago";
+"Amount added Successfully" = "Amount added Successfully";
+"Are you sure you want to delete." = "Estas seguro que quieres borrarlo.";
+"Ok" = "Ok";
+"Cancel" = "Cancelar";
+
+
+// Referral
+
+"Referral code" = "Código de referencia";
+"Your Existing Referral Amount" = "Su monto de referencia existente";
+"Your Referral Code" = "Su código de referencia";
+"Share to get Referral Bonus" = "Share to get Referral Bonus";
+
+// Complaint
+
+"Complaint" = "Queja";
+"Choose your Complaint type" = "Elija su tipo de queja";
+"Comments" = "Comentarios";
+"Save" = "Salvar";
+
+// SOS
+
+"SOS" = "SOS";
+"SOS hint text" = "tú clic en el botón SOS. Elija a quién quiere llamar para emergencias";
+
+// Settings
+
+"General" = "General";
+"Language" = "Idioma";
+
+// History
+
+"SCHEDULE" = "PROGRAMAR";
+
+// Schedule Details
+
+"Ride Scheduled" = "Ride Scheduled";
+"CANCEL" = "CANCELAR";
+
+// Home
+
+"Pickup from" = "Recógelo de";
+"Drop at" = "soltar en";
+"Ride later" = "Cabalga más tarde";
+"Ride Now" = "Montar ahora";
+"Home" = "Casa";
+"Work" = "Trabajo";
+"Other" = "Otro";
+"Enter your fav name"= "Por favor ingrese su nombre favorito";
+"Cancel" = "Cancelar";
+"Save" = "Salvar";
+"Enter Your Pickup location" = "Por favor ingrese su ubicación de recolección";
+"Enter Your Drop Location" = "Please enter your drop location";
+"Search for a locality or landmark" = "Busque una localidad o punto de referencia";
+"Done" = "Hecho";
+"Today" = "Hoy";
+
+//Trip Details
+
+"Payment" = "Pago";
+"CONFIRM BOOKING" = "RESERVA CONFIRMADA";
+"Select Payment" = "Seleccionar pago";
+"Cash" = "Efectivo";
+"Card" = "tarjeta";
+"Wallet" = "Billetera";
+"Waiting for Driver" = "Esperando el conductor";
+"Cancel" = "Cancelar";
+
+"CANCEL" = "CANCELAR";
+"CALL" = "LLAMADA";
+"Distance" = "Distancia";
+"Promo" = "Promoción";
+"Payment" = "Pago";
+"Choose" = "Escoger";
+
+//Schedule Trip Details
+
+"Payment" = "Pago";
+"CONFIRM BOOKING" = "RESERVA CONFIRMADA";
+"Select Payment" = "Seleccionar pago";
+"Cash" = "Efectivo";
+"Card" = "tarjeta";
+"Wallet" = "Billetera";
+"Pickup time" = "Hora de recogida";
+
+//Invoice page
+
+"Base Price" = "Precio base";
+"Distance Cost" = "Cost of distance";
+"Time Cost" = "Costo de tiempo";
+"Waiting Price" = "Esperando precio";
+"Referral Bonus" = "Bonificación por recomendación";
+"Promo Bonus" = "Bono Promocional";
+"Service Tax" = "Impuesto de servicio";
+"Total" = "Total";
+"Confirm" = "Confirmar";
+
+// Review Page
+
+"SUBMIT" = "ENVIAR";
+

@@ -1,0 +1,219 @@
+/* 
+  LocalizablePortuguese.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "Assinar em";
+"Sign Up" = "Inscrever-se";
+
+// Login
+
+"Login" = "Entrar";
+"Enter your Email or phone number" = "Digite seu endereço de e-mail ou número de telefone";
+"Enter your password" = "Por favor, insira sua senha";
+"Forget password?" = "Esqueceu a senha";
+"or login with" = "ou inicie sessão com";
+"Social Media" = "Mídia social";
+
+
+// Forgot password
+
+"Phone Number" = "Número de telefone";
+"Please Check your registered phone number" = "Verifique o número de telefone registrado";
+"Send" = "Enviar";
+"Please Choose your Country Code" = "Escolha seu código de país";
+"Please enter your Phone Number" = "Por favor, digite seu número de telefone";
+"OK" = "Está bem";
+
+// Register
+
+"Greetings" = "saudações";
+"Phone Number" = "Número de telefone";
+"or Signup with" = "ou inscreva-se com";
+"Social Media" = "Mídia social";
+"Please Choose your Country Code" = "Escolha seu código de país";
+"Please enter your Phone Number" = "Por favor, digite seu número de telefon";
+
+"Please wait for an Otp" = "Aguarde um Otp";
+"Enter OTP Below" = "Entre no OTP abaixo";
+"Verify OTP" = "Verificar OTP";
+"Edit Number" = "Número de edição";
+"Resend" = "Reenviar";
+"Please enter the OTP which is sent to your Phone Number" = "Digite o OTP que é enviado para o seu número de telefone";
+
+"Registration" = "Cadastro";
+"First Name" = "Primeiro nome";
+"Last Name" = "Último nome";
+"Email ID" = "Identificação do email";
+"Password" = "Senha";
+"Sign Up" = "Inscrever-se";
+"Please enter the First Name" = "Digite o primeiro nome";
+"Please enter the Last Name" = "Digite o sobrenome";
+"Please enter the Email ID" = "Digite o ID do email";
+"Please enter the Password" = "Por favor insira a senha";
+
+// SIDEMENU
+
+"Profile" = "Perfil";
+"Home" = "Casa";
+"Payment" = "pagamento";
+"Wallet" = "Carteira";
+"Referral" = "Referência";
+"Complaints" = "Reclamações";
+"SOS" = "SOS";
+"Settings" = "Configurações";
+"History" = "História";
+"Logout" = "Sair";
+"Logout Msg" = "Tem certeza que deseja sair ?";
+"Ok" = "Está bem";// *
+"Cancel" = "Cancelar";
+
+//PROFILE
+
+"Basic Setings" = "Configurações básicas";
+"FIRST NAME" = "PRIMEIRO NOME";
+"LAST NAME" = "ÚLTIMO NOME";
+"Change Password" = "Mudar senha";
+"PASSWORD" = "SENHA";
+"NEW" = "NOVO";
+"CONFIRM" = "CONFIRME";
+"Contact Settings" = "Configurações de contato";
+"EMAIL" = "O EMAIL";
+"PHONE" = "TELEFONE";
+"EDIT" = "EDITAR";
+"UPDATE" = "ATUALIZAR";
+"Profile Updated Successfully" = "Perfil atualizado com sucesso";
+"Please enter your firstname" = "Por favor entre com seu primeiro nome";
+"Please enter your lastname" = "Por favor insira seu sobrenome";
+"Please enter your new password" = "Digite sua nova senha";
+"Please enter your confirm password" = "Digite sua senha de confirmação";
+"New password and Confirm password does not match" = "Nova senha e Confirmar senha não coincidem";
+"New password must be 8 characters long" = "A nova senha deve ter 8 caracteres";
+"Confirm password must be 8 characters long" = "A senha de confirmação deve ter 8 caracteres";
+
+
+//PAYMENT
+
+"Payment" = "pagamento ";
+"Choose your payment option" = "Escolha sua opção de pagamento";
+"Select your payment card" = "  Selecione seu cartão de pagamento";
+"No cards available" = "Não há cartões disponíveis";
+"Are you sure you want to delete." = "Tem certeza de que deseja excluir.";
+"Ok" = "Está bem";
+"Cancel" = "Cancelar";
+
+
+//Wallet
+
+"Buy credits" = "Adicione dinheiro";
+"Enter your amount to add in wallet" = "Insira seu valor para adicionar na carteira";
+"ADD" = "ADICIONAR";
+"Select your payment card" = "Selecione seu cartão de pagamento";
+"Amount added Successfully" = "Valor adicionado com sucesso";
+"Are you sure you want to delete." = "Tem certeza de que deseja excluir.";
+"Ok" = "Está bem";
+"Cancel" = "Cancelar";
+
+
+// Referral
+
+"Referral code" = "Código de Referencia";
+"Your Existing Referral Amount" = "Your Existing Referral Amount"; // *
+"Your Referral Code" = "Seu Código de Referência";
+"Share to get Referral Bonus" = "Compartilhe para obter o Bônus de Referência";
+
+// Complaint
+
+"Complaint" = "Queixa";
+"Choose your Complaint type" = "Escolha o tipo de reclamação";
+"Comments" = "Comentários";
+"Save" = "Salvar";
+
+// SOS
+
+"SOS" = "SOS";
+"SOS hint text" = "Você clicou no botão SOS. Escolha quem deseja chamar de emergência";
+
+// Settings
+
+"General" = "Geral";
+"Language" = "Língua";
+
+// History
+
+"SCHEDULE" = "CRONOGRAMA";
+
+// Schedule Details
+
+"Ride Scheduled" = "Ride Scheduled";
+"CANCEL" = "CANCELAR";
+
+// Home
+
+"Pickup from" = "Pickup from";
+"Drop at" = "Solte em";
+"Ride later" = "Ride later";//
+"Ride Now" = "Ride Now";
+"Home" = "Casa";
+"Work" = "Trabalhos";
+"Other" = "De outros";
+"Enter your fav name"= "Digite seu nome favorito";
+"Cancel" = "Cancelar";
+"Save" = "Salvar";
+"Enter Your Pickup location" = "Please enter your pickup location";
+"Enter Your Drop Location" = "Please enter your drop location";
+"Search for a locality or landmark" = "Search for a locality or landmark";
+"Done" = "Done";
+"Today" = "Today";
+
+//Trip Details
+
+"Payment" = "Payment";
+"CONFIRM BOOKING" = "CONFIRM BOOKING";
+"Select Payment" = "Select payment";
+"Cash" = "Cash";
+"Card" = "Card";
+"Wallet" = "Wallet";
+"Waiting for Driver" = "Waiting for Driver";
+"Cancel" = "Cancel";
+
+"CANCEL" = "CANCEL";
+"CALL" = "CALL";
+"Distance" = "Distance";
+"Promo" = "Promo";
+"Payment" = "payment";
+"Choose" = "Choose";
+
+//Schedule Trip Details
+
+"Payment" = "Payment";
+"CONFIRM BOOKING" = "CONFIRM BOOKING";
+"Select Payment" = "Select payment";
+"Cash" = "Cash";
+"Card" = "Card";
+"Wallet" = "Wallet";
+"Pickup time" = "Pickup time";
+
+//Invoice page
+
+"Base Price" = "Base Price";
+"Distance Cost" = "Distance Cost";
+"Time Cost" = "Time Cost";
+"Waiting Price" = "Waiting Price";
+"Referral Bonus" = "Referral Bonus";
+"Promo Bonus" = "Promo Bonus";
+"Service Tax" = "Service Tax";
+"Total" = "Total";
+"Confirm" = "Confirm";
+
+// Review Page
+
+"SUBMIT" = "SUBMIT";
+

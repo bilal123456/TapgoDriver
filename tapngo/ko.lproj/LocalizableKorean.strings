@@ -1,0 +1,219 @@
+/* 
+  LocalizableKorean.strings
+  tapngo
+
+  Created by Mohammed Arshad on 13/03/18.
+  Copyright © 2018 Mohammed Arshad. All rights reserved.
+*/
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "로그인";
+"Sign Up" = "가입하기";
+
+// Login
+
+"Login" = "로그인";
+"Enter your Email or phone number" = "이메일 주소 나 전화 번호를 입력하십시오.";
+"Enter your password" = "비밀번호를 입력하십시오.";
+"Forget password?" = "비밀번호 분실";
+"or login with" = "또는으로 로그인";
+"Social Media" = "소셜 미디어";
+
+
+// Forgot password
+
+"Phone Number" = "电话号码";
+"Please Check your registered phone number" = "등록 된 전화 번호를 확인하십시오.";
+"Send" = "보내다";
+"Please Choose your Country Code" = "국가 코드를 선택하십시오.";
+"Please enter your Phone Number" = "请输入您的电话号码。";
+"OK" = "승인";
+
+// Register
+
+"Greetings" = "인사말";
+"Phone Number" = "전화 번호";
+"or Signup with" = "또는에 가입하기";
+"Social Media" = "소셜 미디어";
+"Please Choose your Country Code" = "국가 코드를 선택하십시오.";
+"Please enter your Phone Number" = "전화 번호를 입력하십시오.";
+
+"Please wait for an Otp" = "请等待一个Otp";
+"Enter OTP Below" = "아래 OTP 입력";
+"Verify OTP" = "OTP 확인";
+"Edit Number" = "번호 수정";
+"Resend" = "재전송";
+"Please enter the OTP which is sent to your Phone Number" = "전화 번호로 전송되는 OTP를 입력하십시오.";
+
+"Registration" = "기재";
+"First Name" = "이름";
+"Last Name" = "성";
+"Email ID" = "이메일 주소";
+"Password" = "암호";
+"Sign Up" = "가입하기";
+"Please enter the First Name" = "이름을 입력하십시오.";
+"Please enter the Last Name" = "성을 입력하십시오.";
+"Please enter the Email ID" = "이메일 ID를 입력하십시오.";
+"Please enter the Password" = "비밀번호를 입력하십시오.";
+
+// SIDEMENU
+
+"Profile" = "윤곽";
+"Home" = "집";
+"Payment" = "지불";
+"Wallet" = "지갑";
+"Referral" = "추천";
+"Complaints" = "불평";
+"SOS" = "조난 신호국";
+"Settings" = "설정";
+"History" = "역사";
+"Logout" = "로그 아웃";
+"Logout Msg" = "로그 아웃 하시겠습니까?";
+"Ok" = "승인";
+"Cancel" = "취소";
+
+//PROFILE
+
+"Basic Setings" = "기본 설정";
+"FIRST NAME" = "이름";
+"LAST NAME" = "성";
+"Change Password" = "비밀번호 변경";
+"PASSWORD" = "암호";
+"NEW" = "새로운";
+"CONFIRM" = "확인";
+"Contact Settings" = "연락처 설정";
+"EMAIL" = "이메일";
+"PHONE" = "전화";
+"EDIT" = "편집하다";
+"UPDATE" = "최신 정보";
+"Profile Updated Successfully" = "프로필이 성공적으로 업데이트되었습니다.";
+"Please enter your firstname" = "이름을 입력하십시오";
+"Please enter your lastname" = "성을 입력하십시오.";
+"Please enter your new password" = "새 암호를 입력하십시오.";
+"Please enter your confirm password" = "확인 비밀번호를 입력하십시오.";
+"New password and Confirm password does not match" = "새 암호와 암호 확인이 일치하지 않습니다.";
+"New password must be 8 characters long" = "새 비밀번호는 8 자 이상이어야합니다.";
+"Confirm password must be 8 characters long" = "비밀번호 확인은 8 자 이상이어야합니다.";
+
+
+//PAYMENT
+
+"Payment" = "지불";
+"Choose your payment option" = "지불 옵션 선택";
+"Select your payment card" = "지불 카드를 선택하십시오.";
+"No cards available" = "사용할 수있는 카드가 없습니다.";
+"Are you sure you want to delete." = "삭제 하시겠습니까.";
+"Ok" = "승인";
+"Cancel" = "취소";
+
+
+//Wallet
+
+"Buy credits" = "돈 추가";
+"Enter your amount to add in wallet" = "지갑에 추가 할 금액을 입력하십시오.";
+"ADD" = "더하다";
+"Select your payment card" = "지불 카드를 선택하십시오.";
+"Amount added Successfully" = "금액 추가 성공적으로";//*
+"Are you sure you want to delete." = "삭제 하시겠습니까.";
+"Ok" = "승인";
+"Cancel" = "취소";
+
+
+// Referral
+
+"Referral code" = "추천 코드";
+"Your Existing Referral Amount" = "귀하의 기존 추천 금액";
+"Your Referral Code" = "귀하의 추천 코드";
+"Share to get Referral Bonus" = "추천 보너스를 받으려면 공유하십시오.";
+
+// Complaint
+
+"Complaint" = "불평";
+"Choose your Complaint type" = "불만 사항 유형 선택";
+"Comments" = "코멘트";
+"Save" = "구하다";
+
+// SOS
+
+"SOS" = "조난 신호국";
+"SOS hint text" = "당신은 SOS 버튼을 클릭했습니다. 응급 상황을 원하는 사람 선택";
+
+// Settings
+
+"General" = "일반";
+"Language" = "언어";
+
+// History
+
+"SCHEDULE" = "시간표";
+
+// Schedule Details
+
+"Ride Scheduled" = "승차 예정";
+"CANCEL" = "취소";
+
+// Home
+
+"Pickup from" = "픽업";
+"Drop at" = "Drop at";
+"Ride later" = "나중에 타기";
+"Ride Now" = "지금 타기";
+"Home" = "집";
+"Work" = "작업";
+"Other" = "다른";
+"Enter your fav name"= "좋아하는 이름을 입력하십시오.";
+"Cancel" = "취소";
+"Save" = "구하다";
+"Enter Your Pickup location" = "픽업 위치를 입력하십시오.";
+"Enter Your Drop Location" = "드롭 위치를 입력하십시오.";
+"Search for a locality or landmark" = "지역 또는 명소를 검색하십시오.";
+"Done" = "끝난";
+"Today" = "오늘";
+
+//Trip Details
+
+"Payment" = "지불";
+"CONFIRM BOOKING" = "예약 확인";
+"Select Payment" = "지불 선택";
+"Cash" = "현금";
+"Card" = "카드";
+"Wallet" = "지갑";
+"Waiting for Driver" = "드라이버 대기 중";
+"Cancel" = "취소";
+
+"CANCEL" = "취소";
+"CALL" = "호출";
+"Distance" = "거리";
+"Promo" = "프로모션";
+"Payment" = "지불";
+"Choose" = "고르다";
+
+//Schedule Trip Details
+
+"Payment" = "지불";
+"CONFIRM BOOKING" = "예약 확인";
+"Select Payment" = "지불 선택";
+"Cash" = "현금";
+"Card" = "카드";
+"Wallet" = "지갑";
+"Pickup time" = "데리러 갈 시간";
+
+//Invoice page
+
+"Base Price" = "기본 가격";
+"Distance Cost" = "거리 비용";
+"Time Cost" = "시간 비용";
+"Waiting Price" = "대기 가격";
+"Referral Bonus" = "추천 보너스";
+"Promo Bonus" = "프로모션 보너스";
+"Service Tax" = "서비스 세";
+"Total" = "합계";
+"Confirm" = "확인";
+
+// Review Page
+
+"SUBMIT" = "제출";
+
